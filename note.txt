@@ -1,6 +1,7 @@
 …or create a new repository on the command line
 
 echo "# game-hub" >> README.md
+
 git init
 git add README.md
 git commit -m "first commit"
@@ -22,4 +23,10 @@ choose React >> TypeScript
 cd game-hub
 npm install node
 npm run dev
+
+
+git add and push
+
+install Chakra UI
+
 
