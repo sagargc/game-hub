@@ -37,3 +37,17 @@ git add and push
 install Chakra UI
 
 
+
+
+
+# API
+https://rawg.io/signup
+
+id: sagargc1991@gmail.com
+user: sagargc1991
+pass: 1991@sagargc
+
+API KEY: a5e33d2cf16546aaad649959b17bf07a
+
+
+npm install axios
