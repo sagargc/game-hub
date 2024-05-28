@@ -1,0 +1,11 @@
+
+
+npm install vite@4.1.0
+
+project-name: game-hub
+choose React >> TypeScript
+
+cd game-hub
+npm install node
+npm run dev
+
