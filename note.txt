@@ -53,3 +53,10 @@ API KEY: a5e33d2cf16546aaad649959b17bf07a
 npm install axios
 
 npm install react-icons@4.7.1
+
+
+
+
+
+// 8-15 Improving User Experience with Loading Skeletons
+// 8-16 
