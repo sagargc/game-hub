@@ -63,3 +63,4 @@ npm install react-icons@4.7.1
 
 Ctrl + Shift + P = > wrap then Type the block name and enter, you'll see the result.
 
+// 8-17- Fetching the Genres
