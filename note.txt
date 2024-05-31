@@ -59,4 +59,7 @@ npm install react-icons@4.7.1
 
 
 // 8-15 Improving User Experience with Loading Skeletons
-// 8-16 
+// 8-16- Refactor- Removing Duplicated Styles
+
+Ctrl + Shift + P = > wrap then Type the block name and enter, you'll see the result.
+
