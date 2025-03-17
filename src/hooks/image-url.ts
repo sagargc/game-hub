@@ -6,9 +6,15 @@ const getCroppedImageUrl = (url: string, width: number = 600 , height: number = 
     //return `${baseUrl}/${width}x${height}/${imageName}`;
 
     // Get optimized images from the url by crop it.
+    // const target = 'media/';
+    // const index = url.indexOf(target) + target.length;
+    // //return url.slice(0, index) + 'crop/600/400/' + url.slice(index);
+    // return url.slice(0, index) + 'crop/' + width + '/' + height + '/' + url.slice(index);
+
+    // New updated on 17th March 2025:
+    if(!url) return '';
     const target = 'media/';
     const index = url.indexOf(target) + target.length;
-    //return url.slice(0, index) + 'crop/600/400/' + url.slice(index);
     return url.slice(0, index) + 'crop/' + width + '/' + height + '/' + url.slice(index);
 }
 
