@@ -70,4 +70,11 @@ Ctrl + Shift + P = > wrap then Type the block name and enter, you'll see the res
 
 Done Till: 8-35: ^ Videos Left:
 
+Finished
 
+To deploy on vercel:
+
+npm i -g vercel
+
+
+vercel
